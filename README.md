@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayanta-developer
+- 👋 Hi, I’m Jayanta Dey
 - 👀 I’m interested in artificial intelligence...
 - 🌱 I’m currently working as a full-stack Developer- 
 - 📫 How to reach me email { jayantdey398@gmail.com }
